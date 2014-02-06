@@ -2,5 +2,5 @@
 
 set MYDIR=%~dp0
 
-regsvr32 "%MYDIR%ChkSumShellExtContextMenuHandler.dll"
+regsvr32 %MYDIR%ChkSumShellExtContextMenuHandler.dll
 
